@@ -1,5 +1,12 @@
 [
   {
+    "Locale": "Madrid",
+    "ROI1 sin bat": 5.092740275619334,
+    "ROI2 sin bat": 3.9023767290091755,
+    "ROI1 con bat": 6.63795579942524,
+    "ROI2 con bat": 5.332824487522313
+  },
+  {
     "Locale": "Baleares",
     "ROI1 sin bat": 5.95724504734703,
     "ROI2 sin bat": 4.528590844052037,
@@ -238,6 +245,13 @@
     "ROI2 con bat": 4.974143151185418
   },
   {
+    "Locale": "Cadiz",
+    "ROI1 sin bat": 5.079955841625177,
+    "ROI2 sin bat": 3.87851422974573,
+    "ROI1 con bat": 6.580484411709212,
+    "ROI2 con bat": 5.338986718530918
+  },
+  {
     "Locale": "Cáceres",
     "ROI1 sin bat": 4.651790828615466,
     "ROI2 sin bat": 3.7012429638740656,
@@ -299,13 +313,6 @@
     "ROI2 sin bat": 5.701882714592249,
     "ROI1 con bat": 8.305683033705648,
     "ROI2 con bat": 6.9332368962847735
-  },
-  {
-    "Locale": "Madrid",
-    "ROI1 sin bat": 5.092740275619334,
-    "ROI2 sin bat": 3.9023767290091755,
-    "ROI1 con bat": 6.63795579942524,
-    "ROI2 con bat": 5.332824487522313
   },
   {
     "Locale": "Cantabria",
