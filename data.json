@@ -8,9 +8,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Madrid",
@@ -21,9 +21,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Baleares",
@@ -34,9 +34,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Burgos",
@@ -47,9 +47,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "A Coruña",
@@ -60,9 +60,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Zaragoza",
@@ -73,9 +73,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Castellon",
@@ -86,9 +86,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Avila",
@@ -99,9 +99,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "Valladolid",
@@ -112,9 +112,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Guadalajara",
@@ -125,9 +125,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "Girona",
@@ -138,9 +138,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Jaen",
@@ -151,9 +151,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Gipuzkoa",
@@ -164,9 +164,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Alava",
@@ -177,9 +177,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "Vizcaya",
@@ -190,9 +190,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "La Rioja",
@@ -203,9 +203,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Lugo",
@@ -216,9 +216,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Lleida",
@@ -229,9 +229,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Tenerife",
@@ -242,9 +242,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Asturias",
@@ -255,9 +255,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 4,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Leon",
@@ -268,9 +268,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "Palencia",
@@ -281,9 +281,9 @@
     "Sin Bat % ICIO": 80,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 80,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Navarra",
@@ -294,9 +294,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Teruel",
@@ -307,9 +307,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 30,
     "Sin bat IBI ANOS": 4,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 30,
+    "Con Bat IBI ANOS": 4
   },
   {
     "Locale": "Pontevedra",
@@ -320,9 +320,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Segovia",
@@ -333,9 +333,9 @@
     "Sin Bat % ICIO": 90,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 80,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Salamanca",
@@ -346,9 +346,9 @@
     "Sin Bat % ICIO": 90,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 80,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Almeria",
@@ -359,9 +359,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Toledo",
@@ -372,9 +372,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Malaga",
@@ -385,9 +385,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Huesca",
@@ -398,9 +398,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Ciudad Real",
@@ -411,9 +411,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Granada",
@@ -424,9 +424,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Gran Canaria",
@@ -437,9 +437,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Cuenca",
@@ -450,9 +450,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 1,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 1
   },
   {
     "Locale": "Córdoba",
@@ -463,9 +463,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Cadiz",
@@ -476,9 +476,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Cáceres",
@@ -489,9 +489,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 30,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 30,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Albacete",
@@ -502,9 +502,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 3,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 3
   },
   {
     "Locale": "Sevilla",
@@ -515,9 +515,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Tarragona",
@@ -528,9 +528,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Murcia",
@@ -541,9 +541,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Huelva",
@@ -554,9 +554,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Badajoz",
@@ -567,9 +567,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 30,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 30,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Zamora",
@@ -580,9 +580,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Ourense ",
@@ -593,9 +593,9 @@
     "Sin Bat % ICIO": 50,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 1,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Cantabria",
@@ -606,9 +606,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Valencia",
@@ -619,9 +619,9 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   },
   {
     "Locale": "Alicante",
@@ -632,8 +632,8 @@
     "Sin Bat % ICIO": 95,
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
-    "Con bat % ICIO": "",
-    "Con Bat % IBI": "",
-    "Con Bat IBI ANOS": ""
+    "Con bat % ICIO": 95,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
   }
 ]
