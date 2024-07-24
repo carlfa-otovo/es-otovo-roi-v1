@@ -1,345 +1,394 @@
 [
   {
+    "Locale": "Barcelona",
+    "ROI1 sin bat": 4.865947684979306,
+    "ROI2 sin bat": 3.631952542113144,
+    "ROI1 con bat": 6.589123472497274,
+    "ROI2 con bat": 5.267955197909168,
+    "": 9
+  },
+  {
     "Locale": "Madrid",
     "ROI1 sin bat": 5.092740275619334,
     "ROI2 sin bat": 3.9023767290091755,
     "ROI1 con bat": 6.63795579942524,
-    "ROI2 con bat": 5.332824487522313
+    "ROI2 con bat": 5.332824487522313,
+    "": 9
   },
   {
     "Locale": "Baleares",
     "ROI1 sin bat": 5.95724504734703,
     "ROI2 sin bat": 4.528590844052037,
     "ROI1 con bat": 7.336938138313603,
-    "ROI2 con bat": 6.096180899118753
+    "ROI2 con bat": 6.096180899118753,
+    "": 9
   },
   {
     "Locale": "Burgos",
     "ROI1 sin bat": 5.604999562903207,
     "ROI2 sin bat": 4.574515374319437,
     "ROI1 con bat": 7.222568049395575,
-    "ROI2 con bat": 6.4107025115402045
+    "ROI2 con bat": 6.4107025115402045,
+    "": 9
   },
   {
     "Locale": "A Coruña",
     "ROI1 sin bat": 6.3219776172484154,
     "ROI2 sin bat": 5.195565292450086,
     "ROI1 con bat": 8.130551953424796,
-    "ROI2 con bat": 6.664690430032173
+    "ROI2 con bat": 6.664690430032173,
+    "": 9
   },
   {
     "Locale": "Zaragoza",
     "ROI1 sin bat": 5.871454096590661,
     "ROI2 sin bat": 4.478279054341479,
     "ROI1 con bat": 7.233927215314339,
-    "ROI2 con bat": 6.009982874221817
+    "ROI2 con bat": 6.009982874221817,
+    "": 9
   },
   {
     "Locale": "Castellon",
     "ROI1 sin bat": 5.298293607259989,
     "ROI2 sin bat": 4.008526447993394,
     "ROI1 con bat": 6.833234980150223,
-    "ROI2 con bat": 5.5691232161267505
+    "ROI2 con bat": 5.5691232161267505,
+    "": 9
   },
   {
     "Locale": "Avila",
     "ROI1 sin bat": 4.9603029351966725,
     "ROI2 sin bat": 3.993469572825687,
     "ROI1 con bat": 6.524924003162692,
-    "ROI2 con bat": 5.763378692506607
+    "ROI2 con bat": 5.763378692506607,
+    "": 9
   },
   {
     "Locale": "Valladolid",
     "ROI1 sin bat": 5.111190343614898,
     "ROI2 sin bat": 3.8458217289045216,
     "ROI1 con bat": 6.721653747243135,
-    "ROI2 con bat": 5.435380324469157
+    "ROI2 con bat": 5.435380324469157,
+    "": 9
   },
   {
     "Locale": "Guadalajara",
     "ROI1 sin bat": 4.731522181399193,
     "ROI2 sin bat": 3.795498866569202,
     "ROI1 con bat": 6.317594525997987,
-    "ROI2 con bat": 5.579608699734394
+    "ROI2 con bat": 5.579608699734394,
+    "": 9
   },
   {
     "Locale": "Girona",
     "ROI1 sin bat": 5.421784256350576,
     "ROI2 sin bat": 4.097409361312165,
     "ROI1 con bat": 6.949260272866803,
-    "ROI2 con bat": 5.678305210033667
+    "ROI2 con bat": 5.678305210033667,
+    "": 9
   },
   {
     "Locale": "Jaen",
     "ROI1 sin bat": 4.897370727184729,
     "ROI2 sin bat": 3.737107586675173,
     "ROI1 con bat": 6.796998752300338,
-    "ROI2 con bat": 5.511260845207057
+    "ROI2 con bat": 5.511260845207057,
+    "": 9
   },
   {
     "Locale": "Gipuzkoa",
     "ROI1 sin bat": 7.024768767728402,
     "ROI2 sin bat": 4.946298998543262,
     "ROI1 con bat": 9.015497149447116,
-    "ROI2 con bat": 7.375846501392179
+    "ROI2 con bat": 7.375846501392179,
+    "": 9
   },
   {
     "Locale": "Alava",
     "ROI1 sin bat": 6.398551702399521,
     "ROI2 sin bat": 5.230338648745854,
     "ROI1 con bat": 8.226938845402662,
-    "ROI2 con bat": 7.310555393194317
+    "ROI2 con bat": 7.310555393194317,
+    "": ""
   },
   {
     "Locale": "Vizcaya",
     "ROI1 sin bat": 7.157486779311422,
     "ROI2 sin bat": 5.998594993493265,
     "ROI1 con bat": 9.12873079740479,
-    "ROI2 con bat": 9.122530287519492
+    "ROI2 con bat": 9.122530287519492,
+    "": ""
   },
   {
     "Locale": "La Rioja",
     "ROI1 sin bat": 7.784476805026501,
     "ROI2 sin bat": 6.031027955162203,
     "ROI1 con bat": 9.149777269464929,
-    "ROI2 con bat": 7.7840454116566455
+    "ROI2 con bat": 7.7840454116566455,
+    "": ""
   },
   {
     "Locale": "Lugo",
     "ROI1 sin bat": 6.254687210069355,
     "ROI2 sin bat": 4.5852268111944205,
     "ROI1 con bat": 7.998271853351533,
-    "ROI2 con bat": 6.569197828626475
+    "ROI2 con bat": 6.569197828626475,
+    "": ""
   },
   {
     "Locale": "Lleida",
     "ROI1 sin bat": 5.046695609703535,
     "ROI2 sin bat": 3.8252622910069674,
     "ROI1 con bat": 6.593298499745874,
-    "ROI2 con bat": 5.3449267734175345
+    "ROI2 con bat": 5.3449267734175345,
+    "": ""
   },
   {
     "Locale": "Tenerife",
     "ROI1 sin bat": 6.404924932482672,
     "ROI2 sin bat": 4.959387174288499,
     "ROI1 con bat": 7.747082137750332,
-    "ROI2 con bat": 6.404567857646266
+    "ROI2 con bat": 6.404567857646266,
+    "": ""
   },
   {
     "Locale": "Asturias",
     "ROI1 sin bat": 6.569649876415205,
     "ROI2 sin bat": 4.988616549017719,
     "ROI1 con bat": 8.442307023604416,
-    "ROI2 con bat": 7.760658844817506
+    "ROI2 con bat": 7.760658844817506,
+    "": ""
   },
   {
     "Locale": "Leon",
     "ROI1 sin bat": 5.766158042523871,
     "ROI2 sin bat": 4.808642310046071,
     "ROI1 con bat": 7.179479958307615,
-    "ROI2 con bat": 6.421361444277243
+    "ROI2 con bat": 6.421361444277243,
+    "": ""
   },
   {
     "Locale": "Palencia",
     "ROI1 sin bat": 5.5879931464043215,
     "ROI2 sin bat": 4.2514020749531625,
     "ROI1 con bat": 7.0373789287841255,
-    "ROI2 con bat": 5.798362879564132
+    "ROI2 con bat": 5.798362879564132,
+    "": ""
   },
   {
     "Locale": "Navarra",
     "ROI1 sin bat": 6.666881894785146,
     "ROI2 sin bat": 4.99697967265412,
     "ROI1 con bat": 8.086493725001668,
-    "ROI2 con bat": 6.785053153278977
+    "ROI2 con bat": 6.785053153278977,
+    "": ""
   },
   {
     "Locale": "Teruel",
     "ROI1 sin bat": 5.985028345235133,
     "ROI2 sin bat": 5.015611032838647,
     "ROI1 con bat": 7.2998685741919935,
-    "ROI2 con bat": 6.5316562612878055
+    "ROI2 con bat": 6.5316562612878055,
+    "": ""
   },
   {
     "Locale": "Pontevedra",
     "ROI1 sin bat": 6.040587289855929,
     "ROI2 sin bat": 4.425607362500048,
     "ROI1 con bat": 7.77188168149619,
-    "ROI2 con bat": 6.3454757274468
+    "ROI2 con bat": 6.3454757274468,
+    "": ""
   },
   {
     "Locale": "Segovia",
     "ROI1 sin bat": 4.864250726617483,
     "ROI2 sin bat": 3.7031755366500407,
     "ROI1 con bat": 6.401508312311502,
-    "ROI2 con bat": 5.180838659279008
+    "ROI2 con bat": 5.180838659279008,
+    "": ""
   },
   {
     "Locale": "Salamanca",
     "ROI1 sin bat": 5.173714577080031,
     "ROI2 sin bat": 3.9367591755499807,
     "ROI1 con bat": 6.673286073010339,
-    "ROI2 con bat": 5.444032580350826
+    "ROI2 con bat": 5.444032580350826,
+    "": ""
   },
   {
     "Locale": "Almeria",
     "ROI1 sin bat": 4.617592172942517,
     "ROI2 sin bat": 3.569436034672454,
     "ROI1 con bat": 6.406395859271816,
-    "ROI2 con bat": 4.914294363500921
+    "ROI2 con bat": 4.914294363500921,
+    "": ""
   },
   {
     "Locale": "Toledo",
     "ROI1 sin bat": 4.898620919672004,
     "ROI2 sin bat": 3.755748363377807,
     "ROI1 con bat": 7.175874007605453,
-    "ROI2 con bat": 5.951557804729721
+    "ROI2 con bat": 5.951557804729721,
+    "": ""
   },
   {
     "Locale": "Malaga",
     "ROI1 sin bat": 4.761430797945412,
     "ROI2 sin bat": 3.656220406702597,
     "ROI1 con bat": 6.426815791427299,
-    "ROI2 con bat": 5.046760575708488
+    "ROI2 con bat": 5.046760575708488,
+    "": ""
   },
   {
     "Locale": "Huesca",
     "ROI1 sin bat": 5.730477135654294,
     "ROI2 sin bat": 4.394816531684876,
     "ROI1 con bat": 7.110442264722482,
-    "ROI2 con bat": 5.865703723729637
+    "ROI2 con bat": 5.865703723729637,
+    "": ""
   },
   {
     "Locale": "Ciudad Real",
     "ROI1 sin bat": 5.02878058877682,
     "ROI2 sin bat": 3.8476110204106644,
     "ROI1 con bat": 6.573715515153653,
-    "ROI2 con bat": 5.285046011480721
+    "ROI2 con bat": 5.285046011480721,
+    "": ""
   },
   {
     "Locale": "Granada",
     "ROI1 sin bat": 4.496572514732147,
     "ROI2 sin bat": 3.4508189631434925,
     "ROI1 con bat": 6.224611846108101,
-    "ROI2 con bat": 4.859838015706865
+    "ROI2 con bat": 4.859838015706865,
+    "": ""
   },
   {
     "Locale": "Gran Canaria",
     "ROI1 sin bat": 6.024646480195252,
     "ROI2 sin bat": 4.721919530548687,
     "ROI1 con bat": 7.696676836864961,
-    "ROI2 con bat": 6.024312012721804
+    "ROI2 con bat": 6.024312012721804,
+    "": ""
   },
   {
     "Locale": "Cuenca",
     "ROI1 sin bat": 5.1476318003782495,
     "ROI2 sin bat": 4.806210128199899,
     "ROI1 con bat": 6.645214935262041,
-    "ROI2 con bat": 6.329905773673105
+    "ROI2 con bat": 6.329905773673105,
+    "": ""
   },
   {
     "Locale": "Córdoba",
     "ROI1 sin bat": 4.647642993974442,
     "ROI2 sin bat": 3.556797020595456,
     "ROI1 con bat": 6.3007472874904025,
-    "ROI2 con bat": 4.974143151185418
+    "ROI2 con bat": 4.974143151185418,
+    "": ""
   },
   {
     "Locale": "Cadiz",
     "ROI1 sin bat": 5.079955841625177,
     "ROI2 sin bat": 3.87851422974573,
     "ROI1 con bat": 6.580484411709212,
-    "ROI2 con bat": 5.338986718530918
+    "ROI2 con bat": 5.338986718530918,
+    "": ""
   },
   {
     "Locale": "Cáceres",
     "ROI1 sin bat": 4.651790828615466,
     "ROI2 sin bat": 3.7012429638740656,
     "ROI1 con bat": 6.24597550647036,
-    "ROI2 con bat": 5.278768216477269
+    "ROI2 con bat": 5.278768216477269,
+    "": ""
   },
   {
     "Locale": "Albacete",
     "ROI1 sin bat": 4.543271098971622,
     "ROI2 sin bat": 3.6020264605801424,
     "ROI1 con bat": 6.176019109409094,
-    "ROI2 con bat": 5.372895562133428
+    "ROI2 con bat": 5.372895562133428,
+    "": ""
   },
   {
     "Locale": "Sevilla",
     "ROI1 sin bat": 4.810273331998705,
     "ROI2 sin bat": 3.6854081222455095,
     "ROI1 con bat": 6.433490338680202,
-    "ROI2 con bat": 5.097645472971615
+    "ROI2 con bat": 5.097645472971615,
+    "": ""
   },
   {
     "Locale": "Tarragona",
     "ROI1 sin bat": 5.322903108780567,
     "ROI2 sin bat": 4.072688992619746,
     "ROI1 con bat": 6.779898876773487,
-    "ROI2 con bat": 5.535366194125196
+    "ROI2 con bat": 5.535366194125196,
+    "": ""
   },
   {
     "Locale": "Murcia",
     "ROI1 sin bat": 3.917349760680123,
     "ROI2 sin bat": 2.9957162602331318,
     "ROI1 con bat": 5.753504658523763,
-    "ROI2 con bat": 4.477028494918801
+    "ROI2 con bat": 4.477028494918801,
+    "": ""
   },
   {
     "Locale": "Huelva",
     "ROI1 sin bat": 4.353809841960205,
     "ROI2 sin bat": 3.3495829000644886,
     "ROI1 con bat": 6.14926621500241,
-    "ROI2 con bat": 4.751660021432629
+    "ROI2 con bat": 4.751660021432629,
+    "": ""
   },
   {
     "Locale": "Badajoz",
     "ROI1 sin bat": 5.353238581646022,
     "ROI2 sin bat": 4.302390187698766,
     "ROI1 con bat": 6.783786776469193,
-    "ROI2 con bat": 5.853036492316875
+    "ROI2 con bat": 5.853036492316875,
+    "": ""
   },
   {
     "Locale": "Zamora",
     "ROI1 sin bat": 4.667911677483961,
     "ROI2 sin bat": 3.5999376851356333,
     "ROI1 con bat": 6.4136727920889545,
-    "ROI2 con bat": 4.957964906817689
+    "ROI2 con bat": 4.957964906817689,
+    "": ""
   },
   {
     "Locale": "Ourense ",
     "ROI1 sin bat": 6.754058765727367,
     "ROI2 sin bat": 5.701882714592249,
     "ROI1 con bat": 8.305683033705648,
-    "ROI2 con bat": 6.9332368962847735
+    "ROI2 con bat": 6.9332368962847735,
+    "": ""
   },
   {
     "Locale": "Cantabria",
     "ROI1 sin bat": 5.972541104207595,
     "ROI2 sin bat": 4.3458914336373455,
     "ROI1 con bat": 7.782516942146925,
-    "ROI2 con bat": 7.136337255034215
-  },
-  {
-    "Locale": "Barcelona",
-    "ROI1 sin bat": 4.865947684979306,
-    "ROI2 sin bat": 3.631952542113144,
-    "ROI1 con bat": 6.589123472497274,
-    "ROI2 con bat": 5.267955197909168
+    "ROI2 con bat": 7.136337255034215,
+    "": ""
   },
   {
     "Locale": "Valencia",
     "ROI1 sin bat": 4.756118936439314,
     "ROI2 sin bat": 3.569455963597153,
     "ROI1 con bat": 6.443648950372537,
-    "ROI2 con bat": 6.085605085954439
+    "ROI2 con bat": 6.085605085954439,
+    "": ""
   },
   {
     "Locale": "Alicante",
     "ROI1 sin bat": 3.8706350002300023,
     "ROI2 sin bat": 2.9678190564184215,
     "ROI1 con bat": 5.746365697302745,
-    "ROI2 con bat": 4.434223066449641
+    "ROI2 con bat": 4.434223066449641,
+    "": ""
   }
 ]
