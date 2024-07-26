@@ -1,5 +1,18 @@
 [
   {
+    "Locale": "Ourense",
+    "ROI1 sin bat": 6.754058765727367,
+    "ROI2 sin bat": 5.701882714592249,
+    "ROI1 con bat": 8.305683033705648,
+    "ROI2 con bat": 6.9332368962847735,
+    "Sin Bat % ICIO": 50,
+    "Sin bat % IBI": 50,
+    "Sin bat IBI ANOS": 1,
+    "Con bat % ICIO": 50,
+    "Con Bat % IBI": 50,
+    "Con Bat IBI ANOS": 5
+  },
+  {
     "Locale": "Barcelona",
     "ROI1 sin bat": 4.865947684979306,
     "ROI2 sin bat": 3.631952542113144,
@@ -581,19 +594,6 @@
     "Sin bat % IBI": 50,
     "Sin bat IBI ANOS": 5,
     "Con bat % ICIO": 95,
-    "Con Bat % IBI": 50,
-    "Con Bat IBI ANOS": 5
-  },
-  {
-    "Locale": "Ourense ",
-    "ROI1 sin bat": 6.754058765727367,
-    "ROI2 sin bat": 5.701882714592249,
-    "ROI1 con bat": 8.305683033705648,
-    "ROI2 con bat": 6.9332368962847735,
-    "Sin Bat % ICIO": 50,
-    "Sin bat % IBI": 50,
-    "Sin bat IBI ANOS": 1,
-    "Con bat % ICIO": 50,
     "Con Bat % IBI": 50,
     "Con Bat IBI ANOS": 5
   },
